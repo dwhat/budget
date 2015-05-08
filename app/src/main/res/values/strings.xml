@@ -1,9 +1,3 @@
 <resources>
     <string name="app_name">Budget</string>
-    <string name="tV_heading_last_spendings">Letzten 5 Ausgaben</string>
-    <string name="tV_label_spend_actual">Aktuelle Ausgaben:</string>
-    <string name="tV_label_income_actual">Aktuelle Einnahmen:</string>
-    <string name="b_spend">Ausgabe</string>
-    <string name="b_income">Einnahme</string>
-    <string name="tV_heading_spending">Ausgaben</string>
 </resources>
